@@ -2,7 +2,7 @@
 import requests
 
 #API KEY FOR CONNECTION AND BASE URL TO REQUEST DATA
-API_KEY = "063626aa596e8e33f5240f30a7aa2060"
+API_KEY = "Enter your API key"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 #FUNCTION TO FETCH WEATHER DETAILS OF GIVEN CITY
